@@ -1,4 +1,4 @@
-[Uploading copy-frameworks.md…]()
+
 # Copy Frameworks Reference
 
 Detailed copywriting frameworks, templates, and formulas.
