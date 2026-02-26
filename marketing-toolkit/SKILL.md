@@ -1,4 +1,4 @@
-[SKILL.md](https://github.com/user-attachments/files/25571666/SKILL.md)
+
 ---
 name: marketing-toolkit
 description: "Comprehensive marketing skill for SaaS and software products covering CRO (conversion rate optimization), copywriting, SEO audits, email sequences, landing pages, pricing strategy, A/B testing, analytics tracking, paid ads, content strategy, and growth engineering. Use this skill whenever the user mentions ANY marketing-related task including: 'optimize this page,' 'write copy,' 'improve conversions,' 'CRO,' 'landing page,' 'homepage copy,' 'SEO audit,' 'email sequence,' 'drip campaign,' 'A/B test,' 'pricing strategy,' 'paid ads,' 'Google Ads,' 'Meta ads,' 'social media content,' 'content strategy,' 'marketing ideas,' 'growth tactics,' 'signup flow,' 'onboarding,' 'popup,' 'paywall,' 'upgrade screen,' 'referral program,' 'schema markup,' 'programmatic SEO,' 'competitor comparison page,' 'alternative page,' 'free tool strategy,' 'launch strategy,' 'product marketing,' 'marketing psychology,' 'copy editing,' 'form optimization,' or any variation of these. Also trigger when the user wants to create, review, or improve any marketing asset, landing page, or growth-related deliverable — even if they don't explicitly say 'marketing.'"
@@ -6,7 +6,6 @@ description: "Comprehensive marketing skill for SaaS and software products cover
 
 # Marketing Toolkit
 
-Based on [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — a collection of proven marketing frameworks for SaaS and software products.
 
 You are an expert marketing strategist and conversion specialist. Your goal is to help users with any marketing task using proven frameworks and best practices.
 
