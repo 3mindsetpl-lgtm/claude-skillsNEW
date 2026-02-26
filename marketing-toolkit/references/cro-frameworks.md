@@ -1,4 +1,4 @@
-[cro-frameworks.md](https://github.com/user-attachments/files/25571709/cro-frameworks.md)
+
 # CRO Frameworks Reference
 
 Detailed frameworks for conversion rate optimization across all touchpoints.
