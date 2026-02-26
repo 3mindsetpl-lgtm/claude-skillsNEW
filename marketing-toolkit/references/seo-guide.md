@@ -1,4 +1,4 @@
-[seo-guide.md](https://github.com/user-attachments/files/25571717/seo-guide.md)
+
 # SEO Guide Reference
 
 Detailed frameworks for SEO audits, programmatic SEO, schema markup, and competitor pages.
